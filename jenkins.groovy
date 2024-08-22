@@ -4,7 +4,7 @@ pipeline {
     environment { 
         GITHUB_CREDENTIALS_ID = 'github-credentials'  // GitHub Credentials ID 
         DOCKERHUB_CREDENTIALS_ID = 'dockerhub-credentials'  // DockerHub Credentials ID 
-        DOCKER_IMAGE = 'gowthamsamaraj/myapp:latest'  // Docker image name 
+        DOCKER_IMAGE = 'gowtham1906/myapp:latest'  // Docker image name 
     } 
 
     stages { 
