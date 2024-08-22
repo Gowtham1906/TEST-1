@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  imageName: 'gowtham1906/lab'
+  imageName: 'gowtham1906/myapp'
 
 steps:
 - task: DockerInstaller@0
